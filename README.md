@@ -65,10 +65,10 @@ Security    →  Burp Suite · Metasploit · Wireshark · Nmap · Cryptography
 I document architecture decisions, tradeoffs, and lessons from building real systems.
 
 - [**Real-Time IoT Digital Twins: VirtuNode's Redis Pub/Sub Architecture**](https://gokulkc01.github.io/gokulkc.github.io/blog/virtunode-redis-architecture.html) — Async deadlocks, multi-worker state, container lifecycle
-- [**Edge vs Cloud: Building a Real-Time Agricultural IoT System**](https://gokulkc01.github.io/gokulkc01.github.io/blog/edge-vs-cloud.html) — 70% bandwidth cut via TinyML on ESP32
-- [**Detecting Ransomware Patterns: Inside My File Integrity Monitor**](https://gokulkc01.github.io/gokulkc01.github.io/blog/file-integrity-monitor.html) — 96.3% detection accuracy
-- [**TinyML in Practice: Neural Networks on Microcontrollers**](https://gokulkc01.github.io/gokulkc01.github.io/blog/tinyml-edge-inference.html) — Quantization, pruning, 512KB RAM
-- [**Designing a URL Shortener from Scratch**](https://gokulkc01.github.io/gokulkc01.github.io/blog/url-shortener-design.html) — System design walkthrough
+- [**Edge vs Cloud: Building a Real-Time Agricultural IoT System**](https://gokulkc01.github.io/gokulkc.github.io/blog/edge-vs-cloud.html) — 70% bandwidth cut via TinyML on ESP32
+- [**Detecting Ransomware Patterns: Inside My File Integrity Monitor**](https://gokulkc01.github.io/gokulkc.github.io/blog/file-integrity-monitor.html) — 96.3% detection accuracy
+- [**TinyML in Practice: Neural Networks on Microcontrollers**](https://gokulkc01.github.io/gokulkc.github.io/blog/tinyml-edge-inference.html) — Quantization, pruning, 512KB RAM
+- [**Designing a URL Shortener from Scratch**](https://gokulkc01.github.io/gokulkc.github.io/blog/url-shortener-design.html) — System design walkthrough
 
 ---
 
