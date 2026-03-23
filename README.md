@@ -3,7 +3,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  GOKUL K.C  ·  CSE (Cybersecurity / AI & ML)  ·  MSRIT  ║
+║  GOKUL K.C  ·  CSE (Cybersecurity)·  MSRIT  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -76,7 +76,7 @@ I document architecture decisions, tradeoffs, and lessons from building real sys
 
 | | |
 |---|---|
-| **B.E. CSE (Cybersecurity / AI & ML)** | Ramaiah Institute of Technology · 2023–2027  |
+| **B.E. CSE (Cybersecurity)** | Ramaiah Institute of Technology · 2023–2027  |
 | **Jr. Penetration Tester** | TryHackMe · 2026 |
 | **Database Management Systems** | NPTEL — IIT/IISc · 2024 |
 | **Artificial Intelligence A-Z** | Udemy · 2026 |
