@@ -8,9 +8,9 @@
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gokulkc.dev-c8f06e?style=flat-square&labelColor=0a0a0a)](https://gokulkc01.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gokulkc001-c8f06e?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=c8f06e)](https://linkedin.com/in/gokulkc001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gokulkc01-c8f06e?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=c8f06e)](https://linkedin.com/in/gokulkc001)
 [![Email](https://img.shields.io/badge/Email-kcgokul001@gmail.com-c8f06e?style=flat-square&labelColor=0a0a0a)](mailto:kcgokul001@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B_solved-c8f06e?style=flat-square&labelColor=0a0a0a)](https://leetcode.com/gokulkc01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gokulkc01-c8f06e?style=flat-square&labelColor=0a0a0a)](https://leetcode.com/gokulkc01)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 I build at the intersection of **cloud systems**, **IoT security**, and **intelligent agents** — focused on correctness, efficiency, and systems that hold up under real-world constraints.
 
-3rd-year undergraduate @ Ramaiah Institute of Technology · CGPA 8.72 · Graduating 2027
+3rd-year undergraduate @ Ramaiah Institute of Technology  · Graduating 2027
 
 ---
 
@@ -76,13 +76,13 @@ I document architecture decisions, tradeoffs, and lessons from building real sys
 
 | | |
 |---|---|
-| **B.E. CSE (Cybersecurity / AI & ML)** | Ramaiah Institute of Technology · 2023–2027 · CGPA 8.72 |
+| **B.E. CSE (Cybersecurity / AI & ML)** | Ramaiah Institute of Technology · 2023–2027  |
 | **Jr. Penetration Tester** | TryHackMe · 2026 |
 | **Database Management Systems** | NPTEL — IIT/IISc · 2024 |
-| **Artificial Intelligence A-Z** | Udemy · 2025 |
+| **Artificial Intelligence A-Z** | Udemy · 2026 |
 
 ---
 
 <div align="center">
-<sub>Open to internships & research collaborations · Security · Distributed Systems · ML</sub>
+<sub>Open to internships & research collaborations · Cyber Security · Software Engineering · Distributed Systems · AI & ML</sub>
 </div>
