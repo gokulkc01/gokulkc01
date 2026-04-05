@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gokulkc.dev-c8f06e?style=flat-square&labelColor=0a0a0a)](https://gokulkc01.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gokulkc.dev-c8f06e?style=flat-square&labelColor=0a0a0a)](https://gokulkc01.github.io/gokulkc.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokulkc01-c8f06e?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=c8f06e)](https://linkedin.com/in/gokulkc001)
 [![Email](https://img.shields.io/badge/Email-kcgokul001@gmail.com-c8f06e?style=flat-square&labelColor=0a0a0a)](mailto:kcgokul001@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gokulkc01-c8f06e?style=flat-square&labelColor=0a0a0a)](https://leetcode.com/gokulkc01)
